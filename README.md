@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jai Sharma</h1>
-
 ## 👨‍💻 About Me
 - 🧑‍🎓 I'm a pre-final year student at Vellore Institute of Technology, Vellore, studying BTech in Computer Science Engineering.
 - 🌱 Currently learning and working on Web3 applications and blockchain technology.
