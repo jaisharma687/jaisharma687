@@ -7,7 +7,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🧑‍🎓 I'm a sophomore at Vellore Institute of Technology, Vellore, studying BTech in Computer Science Engineering.
+- 🧑‍🎓 I'm a pre-final year student at Vellore Institute of Technology, Vellore, studying BTech in Computer Science Engineering.
 - 🌱 Currently learning and working on Web3 applications and blockchain technology.
 - 🔭 Working on a project called **BlocDoc**, a web3 application for securely uploading files to IPFS using crypto wallets and the Pinata API.
 - 🌐 Proficient in:
@@ -18,16 +18,16 @@
 - 🎯 Goal: To contribute to open-source projects and collaborate with other developers.
 
 ## 📫 How to Reach Me
-- **Email**: [jaisharma687@outlook.com](mailto:jaisharma687@outlook.com@example.com)
-- **LinkedIn**: [Jai Sharma](https://www.linkedin.com/in/jaisharma27)
-- **Twitter / X**: [@js_2703](https://x.com/js_2703)
-- **Instagram**: [@disguisedamoeba](https://www.instagram.com/disguisedamoeba/)
-- **Medium**: [Jai Sharma](https://medium.com/@jaisharma687)
-- **LeetCode**: [justjai27](https://leetcode.com/u/justjai27/)
-- **Discord**: [@just_jai27]
+- **Email**: <a href="mailto:jaisharma687@outlook.com" target="_blank">jaisharma687@outlook.com</a>
+- **LinkedIn**: <a href="https://www.linkedin.com/in/jaisharma27" target="_blank">Jai Sharma</a>
+- **LeetCode**: <a href="https://leetcode.com/u/justjai27/" target="_blank">justjai27</a>
+- **Twitter / X**: <a href="https://x.com/js_2703" target="_blank">@js_2703</a>
+- **Instagram**: <a href="https://www.instagram.com/disguisedamoeba/" target="_blank">@disguisedamoeba</a>
+- **Medium**: <a href="https://medium.com/@jaisharma687" target="_blank">Jai Sharma</a>
+- **Discord**: @just_jai27
 
 ## 🚀 Projects
-- [BlocDoc](https://github.com/Siddhantbg/BlocDoc) - A web3 application for securely uploading files to IPFS.
+- <a href="https://github.com/Siddhantbg/BlocDoc" target="_blank">BlocDoc</a> - A web3 application for securely uploading files to IPFS.
 
 ## 🛠️ Tech Stack
 - **Languages**: 
@@ -46,8 +46,8 @@
   ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
 ## 📜 Certifications
-- [Microsoft Azure Data Fundamentals](https://www.credly.com/badges/b8a8f9f6-b7fb-4f02-aa0f-ff012cc45f4b/linked_in_profile)
-- [Microsoft Azure AI Fundamentals](https://www.credly.com/badges/ce925d67-8a11-43f8-b518-3d1acc8e3e93/linked_in_profile)
+- <a href="https://www.credly.com/badges/b8a8f9f6-b7fb-4f02-aa0f-ff012cc45f4b/linked_in_profile" target="_blank">Microsoft Azure Data Fundamentals</a>
+- <a href="https://www.credly.com/badges/ce925d67-8a11-43f8-b518-3d1acc8e3e93/linked_in_profile" target="_blank">Microsoft Azure AI Fundamentals</a>
 
 ## 📊 GitHub Stats
 <p align="center">
