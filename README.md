@@ -18,14 +18,16 @@
 - 🎯 Goal: To contribute to open-source projects and collaborate with other developers.
 
 ## 📫 How to Reach Me
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-- **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-- **Instagram**: [@yourinstagramhandle](https://www.instagram.com/yourinstagramhandle)
-- **Medium**: [Your Medium](https://medium.com/@yourmediumhandle)
+- **Email**: [jaisharma687@outlook.com](mailto:jaisharma687@outlook.com@example.com)
+- **LinkedIn**: [Jai Sharma](https://www.linkedin.com/in/jaisharma27)
+- **Twitter / X**: [@js_2703](https://x.com/js_2703)
+- **Instagram**: [@disguisedamoeba](https://www.instagram.com/disguisedamoeba/)
+- **Medium**: [Jai Sharma](https://medium.com/@jaisharma687)
+- **LeetCode**: [justjai27](https://leetcode.com/u/justjai27/)
+- **Discord**: [@just_jai27]
 
 ## 🚀 Projects
-- [BlocDoc](https://github.com/jaisharma687/BlocDoc) - A web3 application for securely uploading files to IPFS.
+- [BlocDoc](https://github.com/Siddhantbg/BlocDoc) - A web3 application for securely uploading files to IPFS.
 
 ## 🛠️ Tech Stack
 - **Languages**: 
