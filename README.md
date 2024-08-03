@@ -53,11 +53,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaisharma687&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
-## 🗺️ GitHub Contributions
-<p align="center">
-  <img src="https://github.com/jaisharma687/jaisharma687/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
 ## ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
