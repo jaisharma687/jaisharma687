@@ -6,7 +6,6 @@
 
 ## 👨‍💻 About Me
 - 🧑‍🎓 I'm a pre-final year student at Vellore Institute of Technology, Vellore, studying BTech in Computer Science Engineering.
-- 🌱 Currently learning and working on Web3 applications and blockchain technology.
 - 🔭 Working on a project called **BlocDoc**, a web3 application for securely uploading files to IPFS using crypto wallets and the Pinata API.
 - 🌐 Proficient in:
   - **Languages**: C++, C, Python, Java, JavaScript
