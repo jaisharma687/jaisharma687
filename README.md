@@ -18,8 +18,7 @@
 - **Email**: <a href="mailto:jaisharma687@outlook.com" target="_blank">jaisharma687@outlook.com</a>
 - **LinkedIn**: <a href="https://www.linkedin.com/in/jaisharma27" target="_blank">Jai Sharma</a>
 - **LeetCode**: <a href="https://leetcode.com/u/justjai27/" target="_blank">justjai27</a>
-- **Twitter / X**: <a href="https://x.com/js_2703" target="_blank">@js_2703</a>
-- **Instagram**: <a href="https://www.instagram.com/disguisedamoeba/" target="_blank">@disguisedamoeba</a>
+- **Twitter / X**: <a href="https://x.com/disguisedamoeba" target="_blank">@disguisedamoeba</a>
 - **Medium**: <a href="https://medium.com/@jaisharma687" target="_blank">Jai Sharma</a>
 - **Discord**: @just_jai27
 
