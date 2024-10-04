@@ -20,7 +20,6 @@
 - **LeetCode**: <a href="https://leetcode.com/u/justjai27/" target="_blank">justjai27</a>
 - **Twitter / X**: <a href="https://x.com/disguisedamoeba" target="_blank">@disguisedamoeba</a>
 - **Medium**: <a href="https://medium.com/@jaisharma687" target="_blank">Jai Sharma</a>
-- **Discord**: @just_jai27
 
 ## 🚀 Projects
 - <a href="https://github.com/Siddhantbg/BlocDoc" target="_blank">BlocDoc</a> - A web3 application for securely uploading files to IPFS.
