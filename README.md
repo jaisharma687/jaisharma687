@@ -6,12 +6,13 @@
 
 ## 👨‍💻 About Me
 - 🧑‍🎓 I'm a pre-final year student at Vellore Institute of Technology, Vellore, studying BTech in Computer Science Engineering.
-- 🔭 Working on a project called **BlocDoc**, a web3 application for securely uploading files to IPFS using crypto wallets and the Pinata API.
+- 🔭 I have completed a project called **BlocDoc**, a web3 application for securely uploading files to IPFS using crypto wallets and the Pinata API.
+- 🔭 I also completed the **AWS Paper** project, where I built a crop recommendation model utilizing AWS services.
 - 🌐 Proficient in:
   - **Languages**: C++, C, Python, Java, JavaScript
-  - **Frameworks**: React JS, Next JS
-  - **Tools**: Git, Vercel
-  - **Cloud**: Azure
+  - **Frameworks**: React JS, Next JS, Flask
+  - **Tools**: Git, Vercel, Render
+  - **Cloud**: AWS, Azure
 - 🎯 Goal: To contribute to open-source projects and collaborate with other developers.
 
 ## 📫 How to Reach Me
@@ -23,6 +24,7 @@
 
 ## 🚀 Projects
 - <a href="https://github.com/Siddhantbg/BlocDoc" target="_blank">BlocDoc</a> - A web3 application for securely uploading files to IPFS.
+- <a href="https://github.com/jaisharma687/AWS-Paper" target="_blank">AWS Paper</a> - A project demonstrating the utilization of AWS services, including a crop recommendation model.
 
 ## 🛠️ Tech Stack
 - **Languages**: 
@@ -34,10 +36,13 @@
 - **Frameworks**: 
   ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 - **Tools**: 
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
   ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+  ![Render](https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white)
 - **Cloud**: 
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
   ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
 ## 📜 Certifications
